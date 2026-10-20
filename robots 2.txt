@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kode-lava.re/sitemap.xml
