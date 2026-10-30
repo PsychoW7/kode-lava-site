@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/simulateur-kap-numerik",
+      "destination": "/#offres",
+      "permanent": false
+    },
+    {
+      "source": "/simulateur-kap-numerik/",
+      "destination": "/#offres",
+      "permanent": false
+    }
+  ]
+}
